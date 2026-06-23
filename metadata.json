@@ -1,0 +1,6 @@
+{
+  "name": "Youky Salon Kuwait",
+  "description": "Modern Luxury Responsive Website for Youky Salon Kuwait",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
